@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind-ts-starter",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,9 +9,26 @@
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "keywords": [
+    ""
+  ],
+  "author": "Swapnil <sw4pn@yahoo.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw4pn/react-tailwind-ts-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sw4pn/react-tailwind-ts-starter/issues"
+  },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.14.0",
+    "redux": "^4.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
