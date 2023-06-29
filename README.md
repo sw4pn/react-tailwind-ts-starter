@@ -11,3 +11,12 @@
 - :ok_man: Ready to Go
 
 ...
+
+Packages available:
+
+- React
+- React Router Dom
+- Redux + Readux Toolkit
+- Tailwind CSS
+- Axios
+- React-Icons
